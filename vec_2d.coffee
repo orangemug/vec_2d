@@ -68,3 +68,5 @@ class Vec2D
   perp: () ->
   	# TODO
 
+
+window.Vec2D = Vec2D
