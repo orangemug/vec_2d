@@ -45,4 +45,5 @@
     Vec2D.prototype.perp = function() {};
     return Vec2D;
   })();
+  window.Vec2D = Vec2D;
 }).call(this);
